@@ -1,0 +1,18 @@
+{
+  "name": "Control de Maquinaria Pesada",
+  "short_name": "Maquinaria",
+  "description": "Sistema de control de maquinaria pesada offline-first",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F0FF",
+  "theme_color": "#6C5CE7",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
